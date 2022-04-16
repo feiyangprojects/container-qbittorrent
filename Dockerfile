@@ -24,9 +24,9 @@ ENV UPLOAD_RATIO 5
 ENV UPLOAD_SPEED 0
 
 LABEL org.opencontainers.image.authors "Fei Yang <projects@feiyang.moe>"
-LABEL org.opencontainers.image.url https://dev.azure.com/fei1yang/containers
-LABEL org.opencontainers.image.documentation https://dev.azure.com/fei1yang/containers/_git/qbittorrent?path=/README.md
-LABEL org.opencontainers.image.source https://dev.azure.com/fei1yang/containers/_git/qbittorrent
+LABEL org.opencontainers.image.url https://github.com/RmVpMVlhbmc/container-qbittorrent
+LABEL org.opencontainers.image.documentation https://github.com/RmVpMVlhbmc/container-qbittorrent/blob/main/README.md
+LABEL org.opencontainers.image.source https://github.com/RmVpMVlhbmc/container-qbittorrent
 LABEL org.opencontainers.image.vendor "FeiYang Labs"
 LABEL org.opencontainers.image.licenses GPL-3.0-only
 LABEL org.opencontainers.image.title qBittorrent-EE
